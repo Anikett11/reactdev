@@ -1,0 +1,16 @@
+.chats{
+    position: relative;
+    height:400px;
+    width:250px;
+}
+.chats__header{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 10px;
+padding-right: 10px;
+background-color: blue;
+height: 50px;
+
+
+}
